@@ -117,7 +117,7 @@ const AddFuneral = () => {
             <label>
               <p className="labelformAddInsuranceFame2">ระยะเวลาในการตั้งศพ</p>
               <input
-                className="inputformAddInsuranceFame2_231"
+                className="inputformAddInsuranceFame2_2"
                 defaultValue={""}
                 name="Agent"
                 placeholder={""}
